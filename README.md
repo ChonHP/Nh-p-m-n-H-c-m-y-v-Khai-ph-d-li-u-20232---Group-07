@@ -92,6 +92,7 @@ Dự án này bao gồm nhiều module để thu thập, tiền xử lý và ph�
     ```sh
     python app/dashboard.py
     ```
+8. **Liên kết đến ứng dụng đã Deploy**: https://stockpredictionapppy-xs7hwxmaehxjgsrpdfwyoc.streamlit.app/?fbclid=IwZXh0bgNhZW0CMTAAAR35OOreDFu2pjFIPEo10In3a-pOxDmT-nz6jMpYhA580dVR1gUCBl4aI2I_aem_AV7eVmS6Y2rQqv0vb-VDuITymcx5OM0Hand0iO1WsGdyplVyVp9NVOhUA_oJrCfiPwo6-hf6-frAs4YRKUQ_AXOM
 
 ## Cấu Hình
 
