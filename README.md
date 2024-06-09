@@ -49,7 +49,7 @@ Dự án này bao gồm nhiều module để thu thập, tiền xử lý và ph�
 
 ### Cài Đặt
 
-1. Tải về và giải nén mã nguồn: https://drive.google.com/drive/folders/1Dk_TT5OUxHeXCDbcnpPijjBvFXinZybB?usp=sharing
+1. Tải về và giải nén mã nguồn: https://github.com/ChonHP/Nh-p-m-n-H-c-m-y-v-Khai-ph-d-li-u-20232---Group-07.git
 
 2. Cài đặt các gói cần thiết
     ```sh
